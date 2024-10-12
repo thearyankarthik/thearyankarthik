@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @thearyankarthik
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a Python project for AI-powered healthcare using OCR module.
+- 👀 I’m interested in AI-ML
 - 📫 How to reach me ----> aryanfall2022@gmail.com or Instagram ----> @thearyankarthik
 - 😄 Pronouns: ... He/Him
 
